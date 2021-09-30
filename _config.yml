@@ -1,22 +1,20 @@
-site: Colorie
-url: 
-author: Colorie
+site: Opal Blue Langton
+url: https://opalbluelangton.com 
 author:
-  name: Colorie
+  name: Opal Blue Langton
   email: 
   url: 
   avatar: 
-title: Colorie
-description: Colorie - Single column blog and portfolio Jekyll theme 
+title: Opal Blue Langton
+description:
 logo: 
 image: 
-twitter: ronaldsvilcins  
 twitter:
-  username: ronaldsvilcins
-  creator: ronaldsvilcins
-  card: summary
+  username:
+  creator:
+  card:
 social:
-  name: Ronalds Vilcins
+  name:
   links:
     - https://twitter.com/#
     - https://www.dribbble.com/#
@@ -24,12 +22,6 @@ social:
     - https://codepen.io/#
   
 permalink: pretty
-
-disqus:
-  name: "your disqus username" # required
-  noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
-
-baseurl:             ""
 
 include:
   - _redirects
@@ -47,7 +39,6 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap
-  - disqus-for-jekyll
 
 collections:
   pages:
