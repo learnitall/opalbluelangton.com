@@ -3,6 +3,7 @@ layout: post
 title: Lorem Ipsum
 description: Lorem Ipsum is simply dummy text
 summary: Lorem Ipsum is simply dummy text.
+comments: true
 tags: [css]
 ---
 

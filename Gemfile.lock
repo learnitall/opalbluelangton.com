@@ -17,8 +17,6 @@ GEM
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.9)
-    disqus-for-jekyll (1.0.0)
-      jekyll (~> 3.3)
     dnsruby (1.61.7)
       simpleidn (~> 0.1)
     em-websocket (0.5.2)
@@ -277,7 +275,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  disqus-for-jekyll (~> 1.0)
   github-pages
   jekyll-feed (~> 0.12)
   jekyll-gist (~> 1.5)
